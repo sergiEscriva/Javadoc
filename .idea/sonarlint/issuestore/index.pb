@@ -167,3 +167,5 @@ D
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+Q
+!src/Exercici1_SWJD/Exercici1.java,b\e\beda1aea86556c54d09c209efe06a51259d91949
